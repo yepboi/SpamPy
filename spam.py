@@ -11,4 +11,7 @@ for i in range(25):
 # time.sleep(5)         --------for set a time
 
 
+# Must install pyautogui in windows.
+
+
 
